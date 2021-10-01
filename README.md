@@ -6,6 +6,7 @@ OAK-D is a spatial AI powerhouse, capable of simultaneously running advanced neu
 OAK-D have have a powerful Visual Processing Unit (VPU) that is **Intel Myriad X**, which give compute speed of 4 Trillion Ops/sec
 
 **Specifications**:
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/yV1x6CS/Screenshot-from-2021-10-01-18-17-09.png" alt="Screenshot-from-2021-10-01-18-17-09" border="0"></a>
 
 **Applications using OAK-D** :
